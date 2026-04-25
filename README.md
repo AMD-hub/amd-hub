@@ -5,8 +5,8 @@ This repository gathers some of my personal projects and experimental ideas — 
 Feel free to explore, learn, or contribute.
 
 ### 📄 Resumes
-- [Actuary Resume (EN)](https://raw.githubusercontent.com/AMD-hub/CVs/main/actuary_resume_EN.pdf)  
-- [Quant Resume (EN)](https://raw.githubusercontent.com/AMD-hub/CVs/main/quant_resume_EN.pdf)
+- [Actuary Resume (EN)](https://raw.githubusercontent.com/AMD-hub/cv-latex/main/actuary_resume_EN.pdf)  
+- [Quant Resume (EN)](https://raw.githubusercontent.com/AMD-hub/cv-latex/main/quant_resume_EN.pdf)
 
 ---
 
@@ -15,5 +15,5 @@ Ce dépôt regroupe quelques-uns de mes projets personnels et idées expériment
 N’hésitez pas à explorer, apprendre ou contribuer.
 
 ### 📄 CV
-- [CV Actuaire (FR)](https://raw.githubusercontent.com/AMD-hub/CVs/main/actuary_resume_FR.pdf)  
-- [CV Quant (FR)](https://raw.githubusercontent.com/AMD-hub/CVs/main/quant_resume_FR.pdf)
+- [CV Actuaire (FR)](https://raw.githubusercontent.com/AMD-hub/cv-latex/main/actuary_resume_FR.pdf)  
+- [CV Quant (FR)](https://raw.githubusercontent.com/AMD-hub/cv-latex/main/quant_resume_FR.pdf)
